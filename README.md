@@ -10,11 +10,7 @@
 
 ![ezcv logo](https://github.com/ignotochi/MediumPico/blob/master/schedulerPage1.png)
 
-![ezcv logo](https://github.com/ignotochi/MediumPico/blob/master/schedulerPage2.png)
-
-![ezcv logo](https://github.com/ignotochi/MediumPico/blob/master/schedulerPage3.png)
-
-![ezcv logo](https://github.com/ignotochi/MediumPico/blob/master/device.png)
+![ezcv logo](https://github.com/ignotochi/MediumPico/blob/master/device.jpg)
 
 # MerossPico - 1.0.0
 
