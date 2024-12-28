@@ -12,5 +12,3 @@
 
 ![ezcv logo](https://github.com/ignotochi/MediumPico/blob/master/device.jpg)
 
-# MerossPico - 1.0.0
-
